@@ -1,0 +1,152 @@
+[17-Mar-2021 14:00:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Facebook\Facebook' not found in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php:99
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(359): User->fb_register()
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/index.php(209): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php on line 99
+[17-Mar-2021 14:00:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Facebook\Facebook' not found in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php:99
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(359): User->fb_register()
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/index.php(209): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php on line 99
+[17-Mar-2021 14:06:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Facebook\Facebook' not found in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php:99
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(359): User->fb_register()
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/index.php(209): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php on line 99
+[17-Mar-2021 14:18:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Facebook\Facebook' not found in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php:99
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(359): User->fb_register()
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/index.php(209): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php on line 99
+[17-Mar-2021 14:18:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Facebook\Facebook' not found in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php:99
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(359): User->fb_register()
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/index.php(209): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php on line 99
+[17-Mar-2021 14:18:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Facebook\Facebook' not found in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php:99
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(359): User->fb_register()
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/index.php(209): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php on line 99
+[17-Mar-2021 14:18:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Facebook\Facebook' not found in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php:99
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(359): User->fb_register()
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/index.php(209): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php on line 99
+[17-Mar-2021 14:18:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Facebook\Facebook' not found in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php:99
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(359): User->fb_register()
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/index.php(209): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php on line 99
+[17-Mar-2021 14:18:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Facebook\Facebook' not found in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php:99
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(359): User->fb_register()
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/index.php(209): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php on line 99
+[17-Mar-2021 14:18:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Facebook\Facebook' not found in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php:99
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(359): User->fb_register()
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/index.php(209): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php on line 99
+[17-Mar-2021 14:18:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Facebook\Facebook' not found in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php:99
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(359): User->fb_register()
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/index.php(209): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php on line 99
+[17-Mar-2021 14:18:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Facebook\Facebook' not found in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php:99
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(359): User->fb_register()
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/index.php(209): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php on line 99
+[17-Mar-2021 14:25:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Facebook\Facebook' not found in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php:99
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(359): User->fb_register()
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/index.php(209): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php on line 99
+[17-Mar-2021 14:25:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Facebook\Facebook' not found in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php:99
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(359): User->fb_register()
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/index.php(209): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user.php on line 99
+[22-Mar-2021 04:19:56 UTC] PHP Fatal error:  require(): Failed opening required 'application//libraries/vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/order.php on line 12
+[22-Mar-2021 04:21:12 UTC] PHP Fatal error:  require(): Failed opening required 'application//libraries/vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/order.php on line 12
+[22-Mar-2021 04:21:16 UTC] PHP Fatal error:  require(): Failed opening required 'application//libraries/vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/order.php on line 12
+[22-Mar-2021 04:22:11 UTC] PHP Fatal error:  require(): Failed opening required 'application//libraries/vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/order.php on line 12
+[22-Mar-2021 04:22:20 UTC] PHP Fatal error:  require(): Failed opening required 'application//libraries/vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/order.php on line 12
+[22-Mar-2021 04:22:50 UTC] PHP Fatal error:  require(): Failed opening required 'application//libraries/vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/order.php on line 12
+[22-Mar-2021 04:23:57 UTC] PHP Fatal error:  require(): Failed opening required 'application//libraries/vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/order.php on line 12
+[22-Mar-2021 04:24:02 UTC] PHP Fatal error:  require(): Failed opening required 'application//libraries/vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/order.php on line 12
+[22-Mar-2021 04:24:32 UTC] PHP Fatal error:  require(): Failed opening required 'application//libraries/vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/order.php on line 12
+[22-Mar-2021 04:24:34 UTC] PHP Fatal error:  require(): Failed opening required 'application//libraries/vendor/autoload.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/order.php on line 12
+[24-Mar-2021 04:13:05 UTC] PHP Parse error:  syntax error, unexpected 'ublic' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/models/user_model.php on line 51
+[24-Mar-2021 04:15:34 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/models/buyword_model.php on line 160
+[24-Mar-2021 04:15:40 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/models/buyword_model.php on line 160
+[24-Mar-2021 04:17:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function key_encrypt() in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/models/buyword_model.php:138
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/buy_words.php(40): Buyword_model->word_transaction_list_ajax()
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(359): Buy_words->word_transaction_list()
+#2 /home/customer/www/app-newreputation.crazybabo.com/public_html/index.php(209): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/models/buyword_model.php on line 138
+[24-Mar-2021 04:17:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function key_encrypt() in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/models/buyword_model.php:138
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/buy_words.php(40): Buyword_model->word_transaction_list_ajax()
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(359): Buy_words->word_transaction_list()
+#2 /home/customer/www/app-newreputation.crazybabo.com/public_html/index.php(209): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/models/buyword_model.php on line 138
+[24-Mar-2021 05:28:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/admin/controllers/admin.php on line 165
+[24-Mar-2021 05:35:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_userdata_byid() on null in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/admin/controllers/template_admin.php:51
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/admin/controllers/template_admin.php(29): Template_admin->sidebar()
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/application/third_party/MX/Modules.php(70): Template_admin->index(Array)
+#2 /home/customer/www/app-newreputation.crazybabo.com/public_html/application/helpers/template_helper.php(10): Modules::run('admin/template_...', Array)
+#3 /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/admin/controllers/package.php(24): load_admin_template(Array)
+#4 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(359): package->index()
+#5 /home/customer/www/app-newreputation.crazybabo.com/public_html/index.php(209): require_once('/home/cu in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/admin/controllers/template_admin.php on line 51
+[24-Mar-2021 05:35:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_userdata_byid() on null in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/admin/controllers/template_admin.php:51
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/admin/controllers/template_admin.php(29): Template_admin->sidebar()
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/application/third_party/MX/Modules.php(70): Template_admin->index(Array)
+#2 /home/customer/www/app-newreputation.crazybabo.com/public_html/application/helpers/template_helper.php(10): Modules::run('admin/template_...', Array)
+#3 /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/admin/controllers/package.php(24): load_admin_template(Array)
+#4 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(359): package->index()
+#5 /home/customer/www/app-newreputation.crazybabo.com/public_html/index.php(209): require_once('/home/cu in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/admin/controllers/template_admin.php on line 51
+[24-Mar-2021 08:51:26 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/models/user_model.php on line 235
+[24-Mar-2021 09:12:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method user_model::current_user_total_words() in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/template_public.php:43
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/template_public.php(29): Template_public->top_nav()
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/application/third_party/MX/Modules.php(70): Template_public->index(Array)
+#2 /home/customer/www/app-newreputation.crazybabo.com/public_html/application/helpers/template_helper.php(15): Modules::run('public/template...', Array)
+#3 /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/user_dashboard.php(24): load_public_template(Array)
+#4 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(359): User_dashboard->index()
+#5 /home/customer/www/app-newreputation.crazybabo.com/public_html/index. in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/template_public.php on line 43
+[25-Mar-2021 08:44:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function forward_mail() in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/order.php:373
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/order.php(55): Order->payment_process(Array)
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(359): Order->oreder_words('bronze_16160501...')
+#2 /home/customer/www/app-newreputation.crazybabo.com/public_html/index.php(209): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/public/controllers/order.php on line 373
+[30-Mar-2021 09:00:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/admin/models/admin_model.php on line 734
+[30-Mar-2021 09:46:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Admin_model' not found in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/third_party/MX/Loader.php:209
+Stack trace:
+#0 /home/customer/www/app-newreputation.crazybabo.com/public_html/application/modules/admin/controllers/admin.php(23): MX_Loader->model('Admin_model', 'admin')
+#1 /home/customer/www/app-newreputation.crazybabo.com/public_html/system/core/CodeIgniter.php(308): Admin->__construct()
+#2 /home/customer/www/app-newreputation.crazybabo.com/public_html/index.php(209): require_once('/home/customer/...')
+#3 {main}
+  thrown in /home/customer/www/app-newreputation.crazybabo.com/public_html/application/third_party/MX/Loader.php on line 209
