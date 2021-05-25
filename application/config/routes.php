@@ -93,6 +93,9 @@ $route['admin/faq_view_list'] = 'admin/faq/faq_view_list';
 $route['admin/deactive_faq'] = 'admin/faq/deactive_faq';
 $route['admin/delete_faq'] = 'admin/faq/delete_faq';
 $route['admin/add_faq'] = 'admin/faq/add_faq';
+$route['admin/add_faq2'] = 'admin/faq/add_faq';
+$route['admin/add_faq3'] = 'admin/faq/add_faq';
+
 
 
 
